@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Audiowide|Black+Ops+One|Bungee+Inline|Bungee+Outline|Bungee+Shade|Cabin+Sketch|Chewy|Fascinate+Inline|Faster+One|Fredericka+the+Great|Fredoka+One|Gruppo|Megrim|Monofett|Monoton|Orbitron:900|Paytone+One|Permanent+Marker|Righteous|Syncopate:700|Vast+Shadow');
+
+
+#test{
+	width: 85%;
+	margin-top: 150px;
+	margin-bottom: 150px;
+	font-weight: 700;
+}
+
+.col-sm-4 {
+/*	height: 100px;*/
+	background: white;
+	border: 1px solid white;
+/*	color: black;*/
+/*	padding-top: 40px;*/
+}
+
+/*.col-sm-4 > span {*/
+/*	margin-top: 40px;*/
+/*	margin-bottom: 40px;*/
+/*	padding-top: 140px;*/
+/*}*/
+
+.navbar-brand {
+	margin-top: 15px;
+}
+
+.mega, .sport {
+	font-size: 2.2rem;
+/*	margin-top: 5px;*/
+/*	margin-top: 5px;*/
+}
+
+.mega{
+	color: rgba(27,189,54);
+	margin-right: 0px;
+	background: black;
+	padding-left: 7px;
+	border-top-left-radius: 6px;
+	border-bottom-left-radius: 6px;
+}
+
+.sport {
+	color: black;
+	margin-left:0px;
+	background: #ddd;
+	padding-right: 7px;
+	border-top-right-radius: 6px;
+	border-bottom-right-radius: 6px;
+}
